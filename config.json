@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "void-verse.play.hosting",
+  "serverPort": ,
+  "botUsername": "Void-Bot",
   "botChunk": 1
 }
